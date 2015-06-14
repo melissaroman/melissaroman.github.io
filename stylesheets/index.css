@@ -5,3 +5,9 @@ body{
   font-family: 'Shadows Into Light', cursive;
   font-size: 25px;
 }
+#homepage-top{
+  background: url('../images/sf-skyline-pm.jpg') no-repeat;
+  height: 900px;
+  background-size: cover;
+  margin-top: -20px;
+}
