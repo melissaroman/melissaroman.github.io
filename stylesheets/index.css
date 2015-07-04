@@ -5,22 +5,11 @@ body{
   font-family: 'Shadows Into Light', cursive;
   font-size: 25px;
 }
-#about{
-/*  background-color: red;
-  height: 900px;
-  margin-top: -20px;*/
-/*  background: url('../images/sf-skyline-pm.jpg') no-repeat;
-  height: 900px;
-  background-size: cover;*/
-  height: 900px;
-  display: block;
-  position: relative;
-}
-
-
-
 #about {
   /*content: "";*/
+  height: 100vh;
+  display: block;
+  position: relative;
   background: url('../images/sf-skyline-bw.jpg') no-repeat center center fixed;
   opacity: 0.7;
   top: -50px;
@@ -35,10 +24,10 @@ body{
 #portfolio{
   background: url('../images/WorkM2.jpg') no-repeat center center fixed;
   background-size: cover;
-  height: 900px;
+  height: 100vh;
 }
 #contact{
   background: url('../images/Contact-CoverImage.jpg') no-repeat center center fixed;
   background-size: cover;
-  height: 900px;
+  height: 100vh;
 }
