@@ -31,3 +31,12 @@ body{
   background-size: cover;
   height: 100vh;
 }
+#sample-work{
+  height: 100vh;
+}
+#contact-form{
+  height: 50vh;
+  width: 100vh;
+  padding-left: 5%;
+  padding-top: 2%;
+}
